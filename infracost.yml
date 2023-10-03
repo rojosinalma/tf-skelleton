@@ -1,0 +1,16 @@
+version: 0.1
+projects:
+  - path: aws-base
+    name: base
+    terraform_var_files:
+      - variables.tf
+
+  - path: aws-production
+    name: production
+    terraform_var_files:
+      - variables.tf
+
+  - path: aws-staging
+    name: staging
+    terraform_var_files:
+      - variables.tf
