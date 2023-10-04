@@ -5,6 +5,7 @@
 # INITIALIZING
 # PLANNING
 # FINISHED
+# FAILED
 
 package spacelift
 
