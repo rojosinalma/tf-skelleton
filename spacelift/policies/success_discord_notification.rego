@@ -1,3 +1,11 @@
+## The states for the run are:
+# QUEUED
+# READY
+# PREPARING
+# INITIALIZING
+# PLANNING
+# FINISHED
+
 package spacelift
 
 webhook[wbdata] {
